@@ -43,7 +43,7 @@
   <p>Use the provided command in your terminal to access and manage your rented GPU node, enabling you to begin computational tasks immediately.</p>
 
   <h3>8. Graphix AI Command Line Interface (CLI)</h3>
-  <p>If you have spare GPU capacity, you can contribute to the decentralized network by lending out your GPU resources through the <a href="https://app.graphix-ai.io">Graphix AI Command Line Interface (CLI)</a>. By leveraging this tool, you can securely lend GPU power to support various computational tasks and earn revenue while contributing to decentralized computing.</p>
+  <p>If you have spare GPU capacity, you can contribute to the decentralized network by lending out your GPU resources through the <a href="https://github.com/GraphixAIErc/Graphix-AI-Command-Line-Interface-CLI-">Graphix AI Command Line Interface (CLI)</a>. By leveraging this tool, you can securely lend GPU power to support various computational tasks and earn revenue while contributing to decentralized computing.</p>
 
 </body>
 </html>
