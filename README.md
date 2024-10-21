@@ -6,9 +6,9 @@
 </head>
 <body>
 
-  <h1>Getting Started with Graphix AI</h1>
+  <h1>Getting Started with Graphix AI's GPU Nodes Platform</h1>
 
-  <p>Graphix AI provides an innovative solution for users to rent GPU resources for high-performance computing. Follow these steps to seamlessly rent nodes and get started using GPU power for various tasks. The platform operates using <strong>$GRAPHIX tokens</strong>, which are required for all payments.</p>
+  <p>Graphix AI's GPU Nodes Platform provides an innovative solution for users to rent GPU resources for high-performance computing. Follow these steps to seamlessly rent nodes and get started using GPU power for various tasks. The platform operates using <strong>$GRAPHIX tokens</strong>, which are required for all payments.</p>
 
   <h2>Steps to Rent a Node</h2>
 
